@@ -1,18 +1,75 @@
-<h1 align="center">Hi 👋, I'm Ece</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" />
+
+<h1>Hi 👋, I'm Ece</h1>
+
+<h3>
+Computer Engineering Student · Frontend Developer ·  
+Deep Learning & Machine Learning Enthusiast
+</h3>
+
+<p>
+4th year Computer Engineering student from Türkiye.  
+I enjoy building modern web and desktop applications while exploring the algorithmic and intelligent side of software systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Microsoft_SQL_Server_Logo.svg/1200px-Microsoft_SQL_Server_Logo.svg.png" alt="sql" width="40" height="40"/> </a> 
-  <a href="https://www.devexpress.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/DevExpress_logo.svg/2560px-DevExpress_logo.svg.png" alt="devexpress" width="40" height="40"/> </a>
+</div>
+
+---
+
+### 🌱 About Me
+
+- 🎓 **Computer Engineering (4th Year Student)**
+- 💻 Experienced in **web and desktop application development**
+- 🧠 Strong interest in **machine learning, deep learning and algorithmic thinking**
+- 🎮 Enjoy working on **game logic, AI decision systems and simulations**
+- ✍️ I occasionally write about algorithmic and theoretical topics
+
+---
+<div align="center">
+
+<h3>🔗 Connect with Me</h3>
+
+<a href="mailto:ecehatice2004@gmail.com">
+  <img src="https://img.icons8.com/ios-filled/40/1F2937/mail.png" alt="email"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ece-kırk-91a6572a7" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/40/1F2937/linkedin.png" alt="linkedin"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@ecehatice2004" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/40/1F2937/medium-logo.png" alt="medium"/>
+</a>
+
+</div>
+
+
+---
+
+### 📌 Selected Work
+
+- 🏆 **Mangala Game (Web Application)**  
+  A modern implementation of the traditional Mangala game with algorithmic game logic and AI-oriented foundations.  
+  👉 https://ecekrk.github.io/mangala-game/
+
+- 🧠 **Algorithmic Analysis of Mangala (Medium Article)**  
+  A theoretical and algorithmic perspective on Mangala using game theory and Minimax reasoning.  
+  👉 https://medium.com/@ecehatice2004/mangala-kadim-zekânın-algoritmik-oyun-kuramı-agt-ile-analizi-️-df3651457714
+
+---
+
+### ✨ Current Interests
+
+- Game Algorithms & Decision Making  
+- Minimax & Alpha-Beta Pruning  
+- Machine Learning & Deep Learning  
+- Frontend Architecture & UI/UX  
+- Algorithmic Game Theory  
+
+---
+
+<p align="center">
+🌱 Learning, experimenting and building step by step.
 </p>
