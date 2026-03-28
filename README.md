@@ -35,7 +35,7 @@ I enjoy building modern web and desktop applications while exploring the algorit
   <img src="https://img.icons8.com/ios-filled/40/1F2937/mail.png" alt="email"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ece-kırk-91a6572a7" target="_blank">
+<a href="https://www.linkedin.com/in/hatice-ece-k%C4%B1rk-91a6572a7" target="_blank">
   <img src="https://img.icons8.com/ios-filled/40/1F2937/linkedin.png" alt="linkedin"/>
 </a>
 &nbsp;&nbsp;&nbsp;
